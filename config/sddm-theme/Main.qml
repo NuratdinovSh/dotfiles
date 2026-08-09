@@ -93,7 +93,7 @@ Rectangle {
         onAccepted: loginButton.clicked()
 
         background: Rectangle {
-            radius: 15
+            radius: 18
             color: "#f9e9ec"
         }
     }
