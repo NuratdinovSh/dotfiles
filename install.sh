@@ -44,7 +44,7 @@ printf '[Theme]\nCurrent=sddm-theme\n' | sudo tee /etc/sddm.conf.d/theme.conf
 cp -r ~/dotfiles/config/hypr/ ~/.config/
 cp -r ~/dotfiles/config/alacritty/ ~/.config/
 cp -r ~/dotfiles/config/nvim/ ~/.config/
-cp ~/dotfiles/config/.bashrc/ ~/.bashrc
+cp ~/dotfiles/config/.bashrc ~/
 cp -r ~/dotfiles/config/Colloid-Dark ~/.local/share/themes/
 cp -r ~/dotfiles/config/Papirus-Dark ~/.local/share/icons/
 sudo cp -r ~/dotfiles/config/sddm-theme /usr/share/sddm/themes/
