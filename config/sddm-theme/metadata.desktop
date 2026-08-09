@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Simple
+Description=A minimal, easily configurable SDDM theme
+Author=Sharapatdin
+Copyright=(c) 2026
+License=MIT
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Font=Noto Sans
+QtVersion=6
