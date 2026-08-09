@@ -9,7 +9,7 @@ size = 11.0
 
 [colors.primary]
 background = "#101114"
-foreground = "#fefcfd"
+foreground = "#eeeeee"
 
 [colors.cursor]
 text = "#101114"
@@ -22,9 +22,9 @@ background = "#30343F"
 [colors.normal]
 black = "#17181C"
 red = "#e8998d"
-green = "#52b788"
+green = "#8fb996"
 yellow = "#f4d58d"
-blue = "#83c5be"
+blue = "#bde0fe"
 magenta = "#ea9ab2"
-cyan = "#56B6C2"
+cyan = "#bde0fe"
 white = "#D8DEE9"
